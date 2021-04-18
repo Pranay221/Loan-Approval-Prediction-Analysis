@@ -5,7 +5,7 @@ A Company wants to automate the loan eligibility process based on customer detai
 
 # DATA DESCRIPTION
 
-![alt_text](data_description.png)
+![alt_text](data_description.PNG)
 
 ## Logistic Regression Model
 
